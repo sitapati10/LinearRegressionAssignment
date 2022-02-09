@@ -3,14 +3,14 @@
 
 
 ## Table of Contents
--- Contains a python file with the model.
--- Contains a pdf file with subjective questions answers.
+- Contains a python file with the model.
+- Contains a pdf file with subjective questions answers.
 
 <!-- You can include any other section that is pertinent to your problem -->
 
 ## General Information
 - What is the business probem that your project is trying to solve?
-        Predicting the rentals of a biking system.
+        Predicting the rentals that are going to happen. How the bike rentals will be given the weather conditions (like sunny or cloudy or windy),temperature,holiday or weekend. 
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
